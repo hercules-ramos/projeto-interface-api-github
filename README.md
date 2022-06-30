@@ -16,12 +16,6 @@ Vamos criar um aplicativo usando a API pública do github.
 - Procurar repositórios pelo nome de usuário
 - Procurar favoritos pelo nome de usuário
 
-### Prévia
-
-Print do projeto finalizado.
-
-![plot](./image/snapshot-1.png)
-
 ### Bibliotecas utilizadas
 
 - [axios](https://www.npmjs.com/package/axios)
