@@ -1,6 +1,6 @@
 #Desafio de Projeto DIO - Criando interface com API do GitHub
 
-## Getting Started with Create React App
+## Iniciando com Create React App
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
